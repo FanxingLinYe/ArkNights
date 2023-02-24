@@ -1,0 +1,19 @@
+{
+  "name": "2022-12-18__ready",
+  "version": "1.0.0",
+  "description": "The ArkNights",
+  "default": "ArkNights.html",
+  "scripts": {
+    "start": "parcel ArkNights.html",
+    "build": "parcel build ArkNights.html --no-scope-hoist --dist-dir ./dist"
+  },
+  "author": "FanXing__LinYe",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "regenerator-runtime": "^0.13.11"
+  }
+}
