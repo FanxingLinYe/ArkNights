@@ -5,7 +5,7 @@
   "default": "ArkNights.html",
   "scripts": {
     "start": "parcel ArkNights.html",
-    "build": "parcel build ArkNights.html --no-scope-hoist --dist-dir ./dist"
+    "build": "parcel build ArkNights.html --dist-dir ./dist"
   },
   "author": "FanXing__LinYe",
   "license": "ISC",
