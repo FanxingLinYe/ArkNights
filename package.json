@@ -2,10 +2,10 @@
   "name": "2022-12-18__ready",
   "version": "1.0.0",
   "description": "The ArkNights",
-  "default": "arknights.html",
+  "default": "ArkNights.html",
   "scripts": {
-    "start": "parcel arknights.html",
-    "build": "parcel build arknights.html --dist-dir ./dist"
+    "start": "parcel ArkNights.html",
+    "build": "parcel build ArkNights.html --dist-dir ./dist"
   },
   "author": "FanXing__LinYe",
   "license": "ISC",
